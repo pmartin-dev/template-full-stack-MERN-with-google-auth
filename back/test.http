@@ -1,0 +1,2 @@
+### HEALTH
+GET http://localhost:3030/health HTTP/1.1
